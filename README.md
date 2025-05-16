@@ -12,7 +12,7 @@
 
 ---
 
-### 🔧 Tech&nbsp;Stack
+### <p align="center">🔧 Tech&nbsp;Stack</p>
 
 <p align="center"> Backend</p>
 <p align="center">
